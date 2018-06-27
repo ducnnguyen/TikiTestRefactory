@@ -1,0 +1,11 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "2fc389a90b23d392282c191d1c9511a3"
+build_time: [1529391979, 28554000]
+inputs:
+  "/Users/TruongQuangMinh/Desktop/TikiTestRefactor/TikiTestRefactor/Model/ServiceResponse.swift": [1529389958, 0]
+  "/Users/TruongQuangMinh/Desktop/TikiTestRefactor/TikiTestRefactor/ViewController/ViewController.swift": [1529391972, 0]
+  "/Users/TruongQuangMinh/Desktop/TikiTestRefactor/TikiTestRefactor/Model/Comment.swift": [1529390960, 0]
+  "/Users/TruongQuangMinh/Desktop/TikiTestRefactor/TikiTestRefactor/Model/CommentsResult.swift": [1529385408, 0]
+  "/Users/TruongQuangMinh/Desktop/TikiTestRefactor/TikiTestRefactor/Cell/CommentTableViewCell.swift": [1529390576, 0]
+  "/Users/TruongQuangMinh/Desktop/TikiTestRefactor/TikiTestRefactor/AppDelegate.swift": [1529383931, 0]
+  "/Users/TruongQuangMinh/Desktop/TikiTestRefactor/TikiTestRefactor/Service/NetworkingService.swift": [1529391552, 0]
